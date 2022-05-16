@@ -1,0 +1,14 @@
+0: Base Center Tile
+1: Full Tile
+2: Corner Inner (3 corners)
+3: Exit Point (2 Corners, on same side)
+4: Diagonal (2 Corners, opposite Corners)
+5: Corner Outer (1 Corner)
+6: X-Intersection (No corners)
+7: T-Intersection (3 exits)
+8: L-Intersection (2 exits, touching edges)
+9: Straight (2 exits, opposite edges)
+10: Base Exit (1 exit)
+11: Full Edge (3 exits, 2 corners)
+12: Full Exit Left (3 exits, 1 corner)
+13: Full Exit Right (3 exits, 1 corner)
